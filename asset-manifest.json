@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.fc689ab6.css",
-    "main.js": "./static/js/main.2a7f20c6.js",
+    "main.js": "./static/js/main.d48564ce.js",
     "static/js/787.eb89f07d.chunk.js": "./static/js/787.eb89f07d.chunk.js",
     "static/media/B VOC.mp3": "./static/media/B VOC.5ffa9906c5972f1fb03c.mp3",
     "static/media/DRUMS.mp3": "./static/media/DRUMS.f0332952662d2e1f5d15.mp3",
@@ -10,14 +10,14 @@
     "static/media/JIBRISH.mp3": "./static/media/JIBRISH.d23f0b604ef55163d7e6.mp3",
     "static/media/LEAD 1.mp3": "./static/media/LEAD 1.f8658c330b3d07661550.mp3",
     "static/media/UUHO VOC.mp3": "./static/media/UUHO VOC.bc87006a5f29b4cfa918.mp3",
-    "static/media/_tambourine_shake_higher.mp3": "./static/media/_tambourine_shake_higher.2ceb47bfdbea6e81aae9.mp3",
+    "static/media/tambourines shake.mp3": "./static/media/tambourines shake.2ceb47bfdbea6e81aae9.mp3",
     "index.html": "./index.html",
     "main.fc689ab6.css.map": "./static/css/main.fc689ab6.css.map",
-    "main.2a7f20c6.js.map": "./static/js/main.2a7f20c6.js.map",
+    "main.d48564ce.js.map": "./static/js/main.d48564ce.js.map",
     "787.eb89f07d.chunk.js.map": "./static/js/787.eb89f07d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc689ab6.css",
-    "static/js/main.2a7f20c6.js"
+    "static/js/main.d48564ce.js"
   ]
 }
