@@ -1,4 +1,4 @@
-import _tambourine_shake_higher from "../sounds/_tambourine_shake_higher.mp3";
+import tambourines_shake from "../sounds/tambourines shake.mp3";
 import BVOC from "../sounds/B VOC.mp3";
 import DRUMS from "../sounds/DRUMS.mp3";
 import HE_HE_VOC from "../sounds/HE HE VOC.mp3";
@@ -10,8 +10,8 @@ import { Channel } from "../utils/Channel";
 
 export const channelArray = [
   new Channel({
-    audio: _tambourine_shake_higher,
-    name: "_tambourine_shake_higher",
+    audio: tambourines_shake,
+    name: "tambourines_shake",
   }),
   new Channel({ audio: BVOC, name: "BVOC" }),
   new Channel({ audio: DRUMS, name: "DRUMS" }),
