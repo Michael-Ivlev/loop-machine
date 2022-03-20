@@ -41,7 +41,6 @@ export function Panel() {
 
   const handleChannelMute = (index) => {
     const temp = [...channelMute];
-    console.log(temp);
     temp[index] = !temp[index];
     setChannelMute(temp);
     channelArray[index].mute();
